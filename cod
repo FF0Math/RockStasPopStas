@@ -186,3 +186,4 @@ if ($caps -eq $true){
 $key = New-Object -ComObject WScript.Shell
 $key.SendKeys('{CapsLock}')
 }
+# love u Jacoby 
